@@ -12,5 +12,5 @@ This blog exists to:
 
 ## Here is proof I exist
 
-![Cat image](images/hk.png)
+![Cat image](images/hk.jpg)
 
