@@ -1,10 +1,10 @@
 [
-    {
+  {
     "id": "event-1",
     "title": "Blog Successfully Launched HAHA",
+    "excerpt": "Aditya likes Cats.",
     "date": "2022-12-30",
     "author": "Core Team",
-    "description": "Aditya likes Cats.",
-    "image": "hk.jpg"
+    "image": "images/hk.jpg"
   }
 ]
